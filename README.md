@@ -30,7 +30,7 @@
 
 Hey! I'm Selmah, a data science student in Nairobi. I like projects where the data is messy, the problem is real, and the result is something a person can open and use. Most of what's here started as a question I couldn't stop thinking about.
 
-- 🔭 **Currently working on:** [MamaCare Kenya](https://github.com/SelmahT/maternal-health-risk-kenya), my final year project on maternal health risk
+- 🏁 **Just built:** [MamaCare Kenya](https://github.com/SelmahT/maternal-health-risk-kenya), my final year project on maternal health risk, now live
 - 🌱 **Currently learning:** deep learning, and better ways to explain model predictions
 - 💬 **Ask me about:** Bayesian modelling, Power BI and DAX, fine-tuning translation models, Streamlit apps
 - 📐 **Strong suit:** statistics and mathematics, from calculus and Bayesian inference to risk modelling in R
@@ -122,12 +122,14 @@ The maths is what I enjoy most, and it shows up in how I build things:
 
 ---
 
-### 📊 My GitHub
+### 🤝 Let's connect
+
+I'm always happy to talk about data, health tech, statistics and African languages. Feel free to reach out.
 
 <p align="center">
-  <a href="https://github.com/SelmahT?tab=followers"><img src="https://img.shields.io/github/followers/SelmahT?label=Followers&style=for-the-badge&logo=github&color=1F3864"></a>
-  <a href="https://github.com/SelmahT/maternal-health-risk-kenya/commits"><img src="https://img.shields.io/github/last-commit/SelmahT/maternal-health-risk-kenya?label=MamaCare%20last%20commit&style=for-the-badge&color=4F8EF7"></a>
-  <a href="https://github.com/SelmahT?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-1F3864?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/selmah-tzindori-3416b1294"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:tzindori@gmail.com"><img src="https://img.shields.io/badge/Send%20me-an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://mamacare-kenya.streamlit.app/"><img src="https://img.shields.io/badge/Try%20the-MamaCare%20app-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"></a>
 </p>
 
 <p align="center"><i>"Data is only useful once someone can act on it."</i></p>
